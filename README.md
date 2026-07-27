@@ -4,11 +4,11 @@
 <!--                    HERO / HEADER SECTION                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff87,100:00bfff&height=200&section=header&text=Muhammad%20Waqas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=58&descSize=16&descColor=a0f0c0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff87,100:00bfff&height=200&section=header&text=Muhammad%20Waqas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Founder%2C%20SkillOxa%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16&descColor=a0f0c0&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&random=false&width=600&lines=🤖+Building+Intelligent+AI+Systems;🔐+Securing+the+Digital+Frontier;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;⚡+Generative+AI+%7C+LangChain+%7C+LangGraph;🌐+MERN+Stack+%7C+FastAPI+%7C+Python;🚀+Code.+Secure.+Innovate.)](https://github.com/waqasworks)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&random=false&width=650&lines=🤖+Building+AI+Agents+%26+Automation+Systems;🏢+Founder%2C+SkillOxa;🎓+Mentoring+at+eLearning+Guru;🔐+Securing+the+Digital+Frontier;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;⚡+Generative+AI+%7C+LangChain+%7C+LangGraph;🚀+Code.+Secure.+Automate.)](https://github.com/waqasworks)
 
 <br/>
 
@@ -38,15 +38,19 @@
 
 ```python
 class MuhammadWaqas:
-    handle     = "waqasworks"
-    location   = "Lodhran, Pakistan 🇵🇰"
-    roles      = ["AI / ML Engineer", "Cybersecurity Enthusiast", "Full-Stack Developer"]
-    focus      = ["Generative AI", "LangChain", "LangGraph", "Computer Vision", "NLP"]
-    stack      = ["Python", "JavaScript", "TypeScript", "MERN", "FastAPI"]
-    platforms  = ["HuggingFace 🤗", "Upwork", "GitHub"]
-    currently  = "Building Email Marketing Software & AI-powered tools"
-    learning   = ["Advanced LLM Fine-Tuning", "Agentic AI Systems", "RAG Pipelines"]
-    open_to    = "Collaborations on AI, Automation & Cybersecurity projects"
+    handle       = "waqasworks"
+    location     = "Lahore, Pakistan 🇵🇰"
+    role         = "AI Automation Engineer @ DigiMark Developers"
+    founder_of   = "SkillOxa — AI automation agency"
+    creator_of   = "eLearning Guru — 12,500+ subscribers on YouTube"
+    education    = "BS Information Technology, Bahauddin Zakariya University (CGPA 3.80)"
+    certified    = "Huawei HCCDA-AI"
+    focus        = ["Generative AI", "LangChain", "LangGraph", "Computer Vision", "NLP"]
+    stack        = ["Python", "JavaScript", "TypeScript", "MERN", "FastAPI", "n8n"]
+    platforms    = ["HuggingFace 🤗", "Upwork", "GitHub"]
+    currently    = "Building AI agents, automation systems & AI-powered products at SkillOxa"
+    learning     = ["Advanced LLM Fine-Tuning", "Agentic AI Systems", "RAG Pipelines"]
+    open_to      = "Collaborations on AI, Automation & Cybersecurity projects"
 
     def mission(self):
         return "Turn cutting-edge research into real-world intelligent systems. 🚀"
@@ -71,7 +75,7 @@ class MuhammadWaqas:
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### &nbsp; AI / ML / Data Science
+### &nbsp; AI / ML / Automation
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -79,6 +83,7 @@ class MuhammadWaqas:
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -132,22 +137,21 @@ class MuhammadWaqas:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY RUNNING                       -->
+<!--                   AGENCY & AUTOMATION WORK                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
 
-## 🌐 &nbsp; Live & Running Projects
+## 🏢 &nbsp; SkillOxa — Client & Automation Work
 
-> ⚡ These projects are actively deployed and maintained.
+> ⚡ 25+ AI systems shipped in production for international clients — voice agents, RAG pipelines, and workflow automation.
 
-| 🔗 Project | 🌍 Live URL | 📌 Description |
+| Project | Description | Stack |
 |:---|:---|:---|
-| 🔐 DevSecure | [devsecure.netlify.app](https://devsecure.netlify.app/) | Developer security platform with live tooling |
-| 📄 Editingz | [editingz.com](https://editingz.com/) | All-in-one online PDF platform — 28+ tools (merge, split, compress, convert, OCR, AI summarize & more). Free, no sign-up, 256-bit SSL encrypted |
-| 🧑‍💼 CV / Portfolio | [waqasworkscv.netlify.app](https://waqasworkscv.netlify.app/) | Personal developer CV & portfolio — skills, projects, and experience at a glance |
-| 🤗 HuggingFace Models | [huggingface.co/waqasworks](https://huggingface.co/waqasworks) | Published ML models and datasets |
-| 💼 Upwork Profile | **Hire on Upwork** [Profile 1](https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2) [Profile 2](https://www.upwork.com/freelancers/~014c8d834deadf128c) | AI/ML & automation freelance services |
+| Content Kontor Automation | Ingests long-form video, transcribes it, and generates 30 content assets automatically, stored in Notion | `n8n` `HTTP Request nodes` `Notion API` |
+| Service ClicFone | French medical telephone answering voice agent with real-time scheduling | `Vapi` `n8n` `Cal.com` `Twilio` |
+| Scintia CallFlow | WhatsApp + email outreach automation across 4 industries, EN/FR | `Meta WhatsApp API` `n8n` |
+| Dubai Card Toolkit | WordPress plugin — frontend NOL card balance checker for dubaicardguide.com | `WordPress` `PHP` `JS` |
 
 <br/>
 
@@ -162,7 +166,7 @@ class MuhammadWaqas:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqasworks&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00bfff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=waqasworks&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff87&ring=00bfff&fire=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9" />
+<img width="49%" src="https://streak-stats.demolab.com?user=waqasworks&theme=dark&hide_border=true&background=0d1117&stroke=00ff87&ring=00bfff&fire=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br/><br/>
 
@@ -186,14 +190,15 @@ class MuhammadWaqas:
 
 <div align="center">
 
-<!-- Primary mirror (volunteer-hosted, load-balanced) -->
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=waqasworks&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=waqasworks&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🦈_Pull_Shark-×2-0d6efd?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/⚡_Quickdraw-Achieved-00ff87?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Huawei-HCCDA--AI_Certified-FF0000?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ORCID-0009--0001--0375--1016-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117"/>
 
@@ -215,6 +220,7 @@ class MuhammadWaqas:
 
 ```yaml
 🔭  Building:
+      - AI agents & automation systems at SkillOxa
       - Email Marketing Automation Software
       - AI-Powered Ads Impression Systems
 
@@ -225,13 +231,18 @@ class MuhammadWaqas:
 
 🤝  Open to Collaborate On:
       - AI / ML projects
+      - Automation & AI agent projects
       - Cybersecurity tools
       - Open-source automation
 
 💬  Ask Me About:
+      - AI Agents & Automation (n8n, Vapi, LangChain)
       - Machine Learning & Deep Learning
       - Generative AI & Prompt Engineering
       - NLP & Computer Vision pipelines
+
+🎓  Also Mentoring:
+      - AI & automation on eLearning Guru (YouTube)
 ```
 
 </td>
@@ -289,7 +300,7 @@ class MuhammadWaqas:
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Drop+a+⭐+on+something+you+like.;Let's+build+the+future+with+AI+%F0%9F%A4%96;Open+to+collabs+—+DM+me+anytime!)](https://github.com/waqasworks)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+Drop+a+⭐+on+something+you+like.;Let's+build+the+future+with+AI+%F0%9F%A4%96;Open+to+collabs+—+DM+me+anytime!)](https://github.com/waqasworks)
 
 </div>
 
@@ -302,5 +313,5 @@ class MuhammadWaqas:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff87,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <sub>Crafted with ❤️ by <a href="https://github.com/waqasworks"><b>waqasworks</b></a> · Pakistan 🇵🇰 · 2025</sub>
+  <sub>Crafted with ❤️ by <a href="https://github.com/waqasworks"><b>waqasworks</b></a> · Founder, SkillOxa · Pakistan 🇵🇰 · 2026</sub>
 </div>
