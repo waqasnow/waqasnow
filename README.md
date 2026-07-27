@@ -8,19 +8,19 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&random=false&width=650&lines=🤖+Building+AI+Agents+%26+Automation+Systems;🏢+Founder%2C+SkillOxa;🎓+Mentoring+at+eLearning+Guru;🔐+Securing+the+Digital+Frontier;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;⚡+Generative+AI+%7C+LangChain+%7C+LangGraph;🚀+Code.+Secure.+Automate.)](https://github.com/waqasworks)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&random=false&width=650&lines=🤖+Building+AI+Agents+%26+Automation+Systems;🏢+Founder%2C+SkillOxa;🎓+Mentoring+at+eLearning+Guru;🔐+Securing+the+Digital+Frontier;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;⚡+Generative+AI+%7C+LangChain+%7C+LangGraph;🚀+Code.+Secure.+Automate.)](https://github.com/waqasnow)
 
 <br/>
 
-<a href="https://github.com/waqasworks">
-  <img src="https://komarev.com/ghpvc/?username=waqasworks&label=Profile+Views&color=00ff87&style=for-the-badge&labelColor=0d1117" />
+<a href="https://github.com/waqasnow">
+  <img src="https://komarev.com/ghpvc/?username=waqasnow&label=Profile+Views&color=00ff87&style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://github.com/waqasworks?tab=followers">
-  <img src="https://img.shields.io/github/followers/waqasworks?label=Followers&style=for-the-badge&color=00bfff&labelColor=0d1117&logo=github" />
+<a href="https://github.com/waqasnow?tab=followers">
+  <img src="https://img.shields.io/github/followers/waqasnow?label=Followers&style=for-the-badge&color=00bfff&labelColor=0d1117&logo=github" />
 </a>
 &nbsp;
-<a href="https://github.com/waqasworks?tab=repositories">
+<a href="https://github.com/waqasnow?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-58-blueviolet?style=for-the-badge&labelColor=0d1117&logo=github" />
 </a>
 
@@ -38,7 +38,7 @@
 
 ```python
 class MuhammadWaqas:
-    handle       = "waqasworks"
+    handle       = "waqasnow"
     location     = "Lahore, Pakistan 🇵🇰"
     role         = "Founder & AI Automation Engineer @ SkillOxa"
     founder_of   = "SkillOxa — AI automation agency"
@@ -125,12 +125,12 @@ class MuhammadWaqas:
 
 | 🗂️ Project | 📝 Description | 🔧 Stack |
 |:---|:---|:---|
-| [🤟 SignLanguageDetection](https://github.com/waqasworks/SignLanguageDetection) | Real-time sign language recognition using computer vision & deep learning | `Python` `OpenCV` `TensorFlow` |
-| [🔗 Blockchain-Driven-Personal-Data-Vault](https://github.com/waqasworks/Blockchain-Driven-Personal-Data-Vault) | Decentralized personal data storage system powered by blockchain | `JavaScript` `Web3` `Blockchain` |
-| [🗄️ DigitoolDB](https://github.com/waqasworks/DigitoolDB) | Lightweight NoSQL-style document database inspired by MongoDB — built from scratch | `Python` `JSON` `Indexing` |
-| [🔍 Florence-2 License Plate OCR](https://github.com/waqasworks/Fine-Tuning-Florence-2-on-a-License-Plate-Dataset-with-EasyOCR) | Fine-tuned Florence-2 vision model for license plate recognition | `Python` `HuggingFace` `EasyOCR` |
-| [🔐 DevSecure](https://github.com/waqasworks/devsecure) | Security-focused developer platform — live at devsecure.netlify.app | `TypeScript` `React` `Security` |
-| [🚗 TrOCR Plate Recognition](https://github.com/waqasworks/Licence-Plate-Detection-Recognition-with-TrOCR) | ANPR system using Microsoft TrOCR transformer model | `Python` `TrOCR` `Jupyter` |
+| [🤟 SignLanguageDetection](https://github.com/waqasnow/SignLanguageDetection) | Real-time sign language recognition using computer vision & deep learning | `Python` `OpenCV` `TensorFlow` |
+| [🔗 Blockchain-Driven-Personal-Data-Vault](https://github.com/waqasnow/Blockchain-Driven-Personal-Data-Vault) | Decentralized personal data storage system powered by blockchain | `JavaScript` `Web3` `Blockchain` |
+| [🗄️ DigitoolDB](https://github.com/waqasnow/DigitoolDB) | Lightweight NoSQL-style document database inspired by MongoDB — built from scratch | `Python` `JSON` `Indexing` |
+| [🔍 Florence-2 License Plate OCR](https://github.com/waqasnow/Fine-Tuning-Florence-2-on-a-License-Plate-Dataset-with-EasyOCR) | Fine-tuned Florence-2 vision model for license plate recognition | `Python` `HuggingFace` `EasyOCR` |
+| [🔐 DevSecure](https://github.com/waqasnow/devsecure) | Security-focused developer platform — live at devsecure.netlify.app | `TypeScript` `React` `Security` |
+| [🚗 TrOCR Plate Recognition](https://github.com/waqasnow/Licence-Plate-Detection-Recognition-with-TrOCR) | ANPR system using Microsoft TrOCR transformer model | `Python` `TrOCR` `Jupyter` |
 
 </div>
 
@@ -165,16 +165,16 @@ class MuhammadWaqas:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqasworks&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00bfff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=waqasworks&theme=dark&hide_border=true&background=0d1117&stroke=00ff87&ring=00bfff&fire=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqasnow&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00bfff&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=waqasnow&theme=dark&hide_border=true&background=0d1117&stroke=00ff87&ring=00bfff&fire=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasworks&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=c9d1d9&layout=donut&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasnow&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=c9d1d9&layout=donut&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waqasworks&theme=react-dark&bg_color=0d1117&color=00ff87&line=00bfff&point=ffffff&area=true&area_color=00ff8720&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waqasnow&theme=react-dark&bg_color=0d1117&color=00ff87&line=00bfff&point=ffffff&area=true&area_color=00ff8720&hide_border=true" width="95%" />
 
 </div>
 
@@ -190,7 +190,7 @@ class MuhammadWaqas:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=waqasworks&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=waqasnow&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" />
 
 <br/><br/>
 
@@ -266,23 +266,23 @@ class MuhammadWaqas:
 
 <div align="center">
 
-<a href="https://x.com/waqasworks">
+<a href="https://x.com/waqasnow">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://facebook.com/waqasworks">
+<a href="https://facebook.com/thewaqasnow">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/waqasworks/">
+<a href="https://www.instagram.com/waqasnow/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://huggingface.co/waqasworks">
+<a href="https://huggingface.co/waqasnow">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://www.upwork.com/freelancers/~014c8d834deadf128c">
+<a href="https://www.upwork.com/freelancers/">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 &nbsp;
@@ -294,13 +294,13 @@ class MuhammadWaqas:
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://devsecure.netlify.app/">
+<a href="https://skilloxa.com/">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+Drop+a+⭐+on+something+you+like.;Let's+build+the+future+with+AI+%F0%9F%A4%96;Open+to+collabs+—+DM+me+anytime!)](https://github.com/waqasworks)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+Drop+a+⭐+on+something+you+like.;Let's+build+the+future+with+AI+%F0%9F%A4%96;Open+to+collabs+—+DM+me+anytime!)](https://github.com/waqasnow)
 
 </div>
 
@@ -313,5 +313,5 @@ class MuhammadWaqas:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff87,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <sub>Crafted with ❤️ by <a href="https://github.com/waqasworks"><b>waqasworks</b></a> · Founder, SkillOxa · Pakistan 🇵🇰 · 2026</sub>
+  <sub>Crafted with ❤️ by <a href="https://github.com/waqasnow"><b>waqasnow</b></a> · Founder, SkillOxa · Pakistan 🇵🇰 · 2026</sub>
 </div>
