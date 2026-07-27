@@ -151,7 +151,7 @@ class MuhammadWaqas:
 | Content Kontor Automation | Ingests long-form video, transcribes it, and generates 30 content assets automatically, stored in Notion | `n8n` `HTTP Request nodes` `Notion API` |
 | Service ClicFone | French medical telephone answering voice agent with real-time scheduling | `Vapi` `n8n` `Cal.com` `Twilio` |
 | Scintia CallFlow | WhatsApp + email outreach automation across 4 industries, EN/FR | `Meta WhatsApp API` `n8n` |
-| Dubai Card Toolkit | WordPress plugin — frontend NOL card balance checker for dubaicardguide.com | `WordPress` `PHP` `JS` |
+| Dubai Card Toolkit | WordPress plugin | `WordPress` `PHP` `JS` |
 
 <br/>
 
