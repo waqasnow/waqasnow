@@ -40,7 +40,7 @@
 class MuhammadWaqas:
     handle       = "waqasworks"
     location     = "Lahore, Pakistan 🇵🇰"
-    role         = "AI Automation Engineer @ DigiMark Developers"
+    role         = "Founder & AI Automation Engineer @ SkillOxa"
     founder_of   = "SkillOxa — AI automation agency"
     creator_of   = "eLearning Guru — 12,500+ subscribers on YouTube"
     education    = "BS Information Technology, Bahauddin Zakariya University (CGPA 3.80)"
