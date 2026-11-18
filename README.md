@@ -42,7 +42,7 @@ class MuhammadWaqas:
     location     = "Lahore, Pakistan 🇵🇰"
     role         = "Founder & AI Automation Engineer @ SkillOxa"
     founder_of   = "SkillOxa — AI automation agency"
-    creator_of   = "eLearning Guru — 12,500+ subscribers on YouTube"
+    creator_of   = "eLearning Guru — 13,000+ subscribers on YouTube"
     education    = "BS Information Technology, Bahauddin Zakariya University (CGPA 3.80)"
     certified    = "Huawei HCCDA-AI"
     focus        = ["Generative AI", "LangChain", "LangGraph", "Computer Vision", "NLP"]
